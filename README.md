@@ -140,7 +140,6 @@ Open To:
 [![Email](https://img.shields.io/badge/Email-mdarefinmostofa%40gmail.com-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdarefinmostofa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Arefin%20Mostofa-ff4b4b?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-arefin-mostofa)
 [![GitHub](https://img.shields.io/badge/GitHub-captain--rhythm-ff4b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/captain-rhythm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff4b4b?style=for-the-badge&logo=world&logoColor=white)](https://captain-rhythm.vercel.app)
 
 </div>
 
