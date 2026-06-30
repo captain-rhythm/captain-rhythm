@@ -52,55 +52,6 @@ Passionate about creating meaningful technology experiences and developing the n
 
 ---
 
-## 💼 Featured Projects
-
-<details open>
-<summary><b>🌐 Full-Stack Personal Portfolio Website</b></summary>
-
-A responsive, interactive portfolio website built during EDGE-IICT Mid-Assessment.
-
-| Aspect | Details |
-|--------|---------|
-| **Stack** | HTML5, CSS3, JavaScript |
-| **Features** | Responsive navigation, skills grid, form validation, live counters |
-| **Performance** | Mobile-first design, optimized load times |
-| **Impact** | Professional online presence for career visibility |
-| **Repository** | [View on GitHub](https://github.com/captain-rhythm) |
-
-</details>
-
-<details>
-<summary><b>🏥 Hospital Management System (MediCareMS)</b></summary>
-
-Enterprise-level hospital management platform with appointment booking, billing, and real-time communication.
-
-| Aspect | Details |
-|--------|---------|
-| **Stack** | ASP.NET Core 8 MVC, SignalR, Gemini/Groq AI |
-| **Features** | Appointment booking, SSLCommerz payment integration, AI chat, real-time messaging |
-| **Scale** | Enterprise-grade architecture with scalable design patterns |
-| **Security** | Payment security, user authentication, authorization |
-| **Impact** | Streamlined healthcare management workflow |
-| **Repository** | [View on GitHub](https://github.com/captain-rhythm) |
-
-</details>
-
-<details>
-<summary><b>📱 MediCore Hospital Admin Dashboard</b></summary>
-
-Modern frontend admin interface for hospital staff and management.
-
-| Aspect | Details |
-|--------|---------|
-| **Stack** | React, responsive UI design |
-| **Focus** | User experience, intuitive admin controls |
-| **Impact** | Efficient management and monitoring tools |
-| **Repository** | [View on GitHub](https://github.com/captain-rhythm) |
-
-</details>
-
----
-
 ## 💡 Skills Matrix
 
 ### Facilitation & Leadership
