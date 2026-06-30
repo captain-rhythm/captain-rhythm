@@ -9,17 +9,6 @@
 <!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=667eea&center=true&width=600&lines=Building+digital+solutions+%2B+developing+leaders;Full+Stack+Web+Developer;Leadership+Facilitator+at+BYLC)
 
-<!-- Badges -->
-![Location](https://img.shields.io/badge/📍-Chattogram%2C%20Bangladesh-667eea?style=flat-square&labelColor=1a1a2e)
-![Email](https://img.shields.io/badge/Email-mdarefinmostofa%40gmail.com-667eea?style=flat-square&labelColor=1a1a2e&logo=gmail)
-![Phone](https://img.shields.io/badge/Phone-%2B880%201708078589-667eea?style=flat-square&labelColor=1a1a2e)
-
-<!-- Links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-captain--rhythm-667eea?style=for-the-badge&logo=world&labelColor=1a1a2e)](https://captain-rhythm.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-md--arefin--mostofa-667eea?style=for-the-badge&logo=linkedin&labelColor=1a1a2e)](https://linkedin.com/in/md-arefin-mostofa)
-[![GitHub](https://img.shields.io/badge/GitHub-captain--rhythm-667eea?style=for-the-badge&logo=github&labelColor=1a1a2e)](https://github.com/captain-rhythm)
-
-<!-- Stats -->
 ![Profile Views](https://komarev.com/ghpvc/?username=captain-rhythm&color=667eea&style=flat-square&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/captain-rhythm?color=667eea&style=flat-square&label=FOLLOWERS)
 
