@@ -75,15 +75,17 @@ Passionate about creating meaningful technology experiences and developing the n
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=captain-rhythm&theme=tokyonight&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=667eea&text_color=e0e0e0)](https://github.com/captain-rhythm)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=captain-rhythm&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=667eea&text_color=e0e0e0&layout=compact)](https://github.com/captain-rhythm)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=captain-rhythm&theme=tokyonight&hide_border=true&background=1a1a2e&ring=667eea&fire=667eea&currStreakLabel=667eea)](https://github.com/captain-rhythm)
+<img src="https://github-readme-stats.vercel.app/api?username=captain-rhythm&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&icon_color=667eea&border_radius=12&count_private=true" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captain-rhythm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&layout=compact&border_radius=12" height="180" alt="Top Languages"/>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=captain-rhythm&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=667eea&text_color=e0e0e0)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=captain-rhythm&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=a78bfa&currStreakLabel=667eea&sideLabels=c9d1d9&dates=8b949e&border_radius=12" alt="GitHub Streak"/>
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=captain-rhythm&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=667eea&point=a78bfa&color=c9d1d9&area=true&area_color=667eea&custom_title=Contribution%20Activity)](https://github.com/captain-rhythm)
 
 <br/>
 
