@@ -1,16 +1,16 @@
 <div align="center">
   
-![](https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Md.%20Arefin%20Mostofa&fontSize=60&fontColor=fff)
+![](https://capsule-render.vercel.app/api?type=waving&color=ff4b4b&height=200&section=header&text=Md.%20Arefin%20Mostofa&fontSize=60&fontColor=fff)
 
 </div>
 
 <div align="center">
 
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=667eea&center=true&width=600&lines=Your+upgrade+is+my+starting+point;Full+Stack+Web+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=ff4b4b&center=true&width=600&lines=Your+upgrade+is+my+starting+point;Full+Stack+Web+Developer)
 
-![Profile Views](https://komarev.com/ghpvc/?username=captain-rhythm&color=667eea&style=flat-square&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/captain-rhythm?color=667eea&style=flat-square&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=captain-rhythm&color=ff4b4b&style=flat-square&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/captain-rhythm?color=ff4b4b&style=flat-square&label=FOLLOWERS)
 
 </div>
 
@@ -55,16 +55,16 @@ Passionate about creating meaningful technology experiences and developing the n
 ## 💡 Skills Matrix
 
 ### Facilitation & Leadership
-![Program Facilitation](https://img.shields.io/badge/-Program%20Facilitation-667eea?style=flat-square&labelColor=1a1a2e)
-![Youth Engagement](https://img.shields.io/badge/-Youth%20Engagement-667eea?style=flat-square&labelColor=1a1a2e)
-![Team Leadership](https://img.shields.io/badge/-Team%20Leadership-667eea?style=flat-square&labelColor=1a1a2e)
-![Active Listening](https://img.shields.io/badge/-Active%20Listening-667eea?style=flat-square&labelColor=1a1a2e)
+![Program Facilitation](https://img.shields.io/badge/-Program%20Facilitation-ff4b4b?style=flat-square&labelColor=1a1a2e)
+![Youth Engagement](https://img.shields.io/badge/-Youth%20Engagement-ff4b4b?style=flat-square&labelColor=1a1a2e)
+![Team Leadership](https://img.shields.io/badge/-Team%20Leadership-ff4b4b?style=flat-square&labelColor=1a1a2e)
+![Active Listening](https://img.shields.io/badge/-Active%20Listening-ff4b4b?style=flat-square&labelColor=1a1a2e)
 
 ### Soft Skills
-![Time Management](https://img.shields.io/badge/-Time%20Management-667eea?style=flat-square&labelColor=1a1a2e)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-667eea?style=flat-square&labelColor=1a1a2e)
-![Adaptability](https://img.shields.io/badge/-Adaptability-667eea?style=flat-square&labelColor=1a1a2e)
-![Cross-functional Collaboration](https://img.shields.io/badge/-Cross--functional%20Collaboration-667eea?style=flat-square&labelColor=1a1a2e)
+![Time Management](https://img.shields.io/badge/-Time%20Management-ff4b4b?style=flat-square&labelColor=1a1a2e)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-ff4b4b?style=flat-square&labelColor=1a1a2e)
+![Adaptability](https://img.shields.io/badge/-Adaptability-ff4b4b?style=flat-square&labelColor=1a1a2e)
+![Cross-functional Collaboration](https://img.shields.io/badge/-Cross--functional%20Collaboration-ff4b4b?style=flat-square&labelColor=1a1a2e)
 
 ### Languages
 🇧🇩 **Bengali** (Native) | 🇬🇧 **English** (Proficient - B1) | 🇮🇳 **Hindi** (Conversational - C1)
@@ -78,21 +78,21 @@ Passionate about creating meaningful technology experiences and developing the n
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=captain-rhythm&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&icon_color=667eea" height="180" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=captain-rhythm&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4b4b&text_color=c9d1d9&icon_color=ff4b4b" height="180" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captain-rhythm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captain-rhythm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4b4b&text_color=c9d1d9&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=captain-rhythm&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=a78bfa&currStreakLabel=667eea&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=captain-rhythm&theme=tokyonight&hide_border=true&background=0d1117&ring=ff4b4b&fire=ff7f50&currStreakLabel=ff4b4b&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=captain-rhythm&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=667eea&point=a78bfa&color=c9d1d9&area=true&area_color=667eea&custom_title=Contribution%20Activity)](https://github.com/captain-rhythm)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=captain-rhythm&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=ff4b4b&point=ff7f50&color=c9d1d9&area=true&area_color=ff4b4b&custom_title=Contribution%20Activity)](https://github.com/captain-rhythm)
 
 <br/>
 
@@ -137,16 +137,16 @@ Open To:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mdarefinmostofa%40gmail.com-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdarefinmostofa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Arefin%20Mostofa-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-arefin-mostofa)
-[![GitHub](https://img.shields.io/badge/GitHub-captain--rhythm-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/captain-rhythm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=world&logoColor=white)](https://captain-rhythm.vercel.app)
+[![Email](https://img.shields.io/badge/Email-mdarefinmostofa%40gmail.com-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdarefinmostofa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Arefin%20Mostofa-ff4b4b?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-arefin-mostofa)
+[![GitHub](https://img.shields.io/badge/GitHub-captain--rhythm-ff4b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/captain-rhythm)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff4b4b?style=for-the-badge&logo=world&logoColor=white)](https://captain-rhythm.vercel.app)
 
 </div>
 
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=footer&text=Building%20Tomorrow%2C%20Today&fontSize=30&fontColor=fff&desc=%22Technology%20and%20leadership%20together%20create%20lasting%20impact.%22&descSize=14&descAlignY=75)
+![](https://capsule-render.vercel.app/api?type=waving&color=ff4b4b&height=200&section=footer&text=Building%20Tomorrow%2C%20Today&fontSize=30&fontColor=fff&desc=%22Technology%20and%20leadership%20together%20create%20lasting%20impact.%22&descSize=14&descAlignY=75)
 
 </div>
