@@ -75,13 +75,20 @@ Passionate about creating meaningful technology experiences and developing the n
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=captain-rhythm&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&icon_color=667eea&border_radius=12&count_private=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captain-rhythm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&layout=compact&border_radius=12" height="180" alt="Top Languages"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=captain-rhythm&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&icon_color=667eea" height="180" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captain-rhythm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=captain-rhythm&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=a78bfa&currStreakLabel=667eea&sideLabels=c9d1d9&dates=8b949e&border_radius=12" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=captain-rhythm&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=a78bfa&currStreakLabel=667eea&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 <br/><br/>
 
