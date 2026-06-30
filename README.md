@@ -182,6 +182,18 @@ Modern frontend admin interface for hospital staff and management.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=captain-rhythm&theme=tokyonight&hide_border=true&background=1a1a2e&ring=667eea&fire=667eea&currStreakLabel=667eea)](https://github.com/captain-rhythm)
 
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=captain-rhythm&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=667eea&text_color=e0e0e0)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/captain-rhythm/captain-rhythm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/captain-rhythm/captain-rhythm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/captain-rhythm/captain-rhythm/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
