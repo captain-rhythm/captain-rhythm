@@ -101,58 +101,6 @@ Modern frontend admin interface for hospital staff and management.
 
 ---
 
-## 📚 Leadership & Volunteer Experience
-
-### BGN Volunteer | *BYLC Graduate Network* (Sep 2025 – Apr 2026)
-- Contributed **65+ volunteer hours** supporting alumni engagement
-- Supported event management, photography, data entry, and coordination
-- Recognized with **Outstanding Volunteer Performance Award 2026**
-- **Skills**: Event coordination, Photography, Community engagement
-
-### Core Volunteer (2 Terms) | *Volunteer for Bangladesh* (2025 – Present)
-- Selected twice consecutively based on performance and commitment
-- Planned and executed youth engagement activities across Chattogram Division
-- Supported community initiatives and volunteer coordination
-- **Skills**: Team leadership, Community outreach, Program organization
-
-### Institute Representative | *Volunteer for Bangladesh* (2024 – 2025)
-- Represented IIUC and recruited student volunteers
-- Liaison between institute and divisional leadership
-- **Skills**: Recruitment, Institutional relations, Youth engagement
-
-### Project Member | *Green Rethink - LIA Scale-Up* (2024)
-- Sustainability-focused project with community impact focus
-- Co-organized waste management awareness event
-- Backend support and community participation facilitation
-- **Skills**: Environmental advocacy, Event coordination, Backend support
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Duration | Status |
-|--------|-------------|----------|--------|
-| **B.Sc. Computer Science & Engineering** | International Islamic University Chittagong (IIUC) | 2022 – Present | 3rd Year |
-| **Higher Secondary Certificate (HSC)** | Hazera Taju Degree College | Completed | 2022 |
-| **Secondary School Certificate (SSC)** | Chattogram Residential School & College | Completed | 2020 |
-
----
-
-## 🏆 Certifications & Achievements
-
-| Recognition | Details | Date |
-|-------------|---------|------|
-| **Outstanding Volunteer Performance Award** | BYLC Graduate Network (BGN) - Photography & Event Support | 2026 |
-| **Certificate of Appreciation** | BYLC Graduate Network - 65+ hours volunteer service | 2026 |
-| **BBLT 50 Leadership Course** | Bangladesh Youth Leadership Centre (BYLC) | 2025 |
-| **Food Systems Youth Leadership Training** | GAIN & SUN Youth Network | 2025 |
-| **Mental Well-Being Workshop Series** | Mediaura Wellness Centre | 2025 |
-| **SDG Festival of Action 2025** | SDG Youth Forum (YPSA), Chattogram | 2025 |
-| **Building Career with Leading Employers** | Youth Marketing Club, IIUC | 2024 |
-| **SCMUNC Participant** | Model United Nations Conference | 2024 |
-
----
-
 ## 💡 Skills Matrix
 
 ### Facilitation & Leadership
