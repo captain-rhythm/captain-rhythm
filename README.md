@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=667eea&center=true&width=600&lines=Building+digital+solutions+%2B+developing+leaders;Full+Stack+Web+Developer;Leadership+Facilitator+at+BYLC)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=667eea&center=true&width=600&lines=Building+digital+solutions+%2B+developing+leaders;Full+Stack+Web+Developer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=captain-rhythm&color=667eea&style=flat-square&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/captain-rhythm?color=667eea&style=flat-square&label=FOLLOWERS)
