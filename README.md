@@ -144,12 +144,9 @@ Open To:
 
 </div>
 
----
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=667eea&height=100&section=footer&text=Building%20Tomorrow%2C%20Today&fontSize=20&fontColor=fff)
-
-**_"Technology and leadership together create lasting impact."_**
+![](https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=footer&text=Building%20Tomorrow%2C%20Today&fontSize=30&fontColor=fff&desc=%22Technology%20and%20leadership%20together%20create%20lasting%20impact.%22&descSize=14&descAlignY=75)
 
 </div>
